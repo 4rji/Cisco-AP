@@ -117,4 +117,10 @@ The AP is now functional and accessible with default credentials:
 
 ---
 
-Let me know if you want to add more sections like screenshots, AP configuration after flashing, or optional DHCP setup.
+* Cisco Network Administration
+*👨‍🏫 With the tutoring of Professor 
+
+Steven Frich | 
+Professor Emeritus
+
+---
